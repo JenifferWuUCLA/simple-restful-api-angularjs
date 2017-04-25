@@ -27,3 +27,7 @@ linux
 * node server
 
 Open your browser and point to http://localhost:3000
+
+![Index Page](https://github.com/JenifferWuUCLA/simple-restful-api-angularjs/blob/master/public/image/Patient%20index%20page.png)
+
+![Search Page](https://github.com/JenifferWuUCLA/simple-restful-api-angularjs/blob/master/public/image/Patient%20search%20page.png)

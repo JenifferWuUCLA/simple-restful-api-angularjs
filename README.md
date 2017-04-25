@@ -14,10 +14,9 @@ Prefix sudo if working in linux machine
 
 Start mongodb
 -----------------------
-Windows
+##### Linux
 browse into your mongodb installation folder and into the bin directory
-Run:
-##### linux
+###### Run:
 ./mongo
 
 * npm install

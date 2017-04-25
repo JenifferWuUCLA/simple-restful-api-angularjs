@@ -16,10 +16,7 @@ Start mongodb
 -----------------------
 Windows
 browse into your mongodb installation folder and into the bin directory
-Run mongod.exe
-
-C:\Program Files\MongoDB 2.6 Standard\bin\mongod.exe
-
+Run:
 linux
 ./mongod
 

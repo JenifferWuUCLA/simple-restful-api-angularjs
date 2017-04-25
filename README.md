@@ -17,8 +17,8 @@ Start mongodb
 Windows
 browse into your mongodb installation folder and into the bin directory
 Run:
-linux
-./mongod
+##### linux
+./mongo
 
 * npm install
 * node server
